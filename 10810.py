@@ -12,4 +12,4 @@ for second in range(b):
 
 # 0번 리스트부터 baskets의 요소개수만큼 반복해서 출력
 for fourth in range(1,len(baskets)): # 0번째 리스트는 출력 X
-    print(baskets[fourth], end=' ')
+    print(baskets[fourth], end=' ') 

@@ -9,4 +9,4 @@ for a in range(m):
     basket[i],basket[j] = basket[j],basket[i]
 
 for b in range(1,len(basket)):
-    print(basket[b], end=" ")
+    print(basket[b], end=" ") 

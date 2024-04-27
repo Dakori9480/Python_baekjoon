@@ -5,4 +5,4 @@ for i in range(9):   # 9번 반복
                      # 책꽂이에 책 꽂기
 count = max(result)  # 책중 가장 비싼책 고르기 
 print(count)         # 가장 비싼책의 가격을 출력
-print(result.index(count) + 1 )  # 그 비싼책의 순번을 출력
+print(result.index(count) + 1 )  # 그 비싼책의 순번을 출력 
