@@ -1,6 +1,6 @@
-while True:
-    try:
-        a = input()
-        print(a)
-    except:
-        break
+print('         ,r\'\"7')
+print('r`-_   ,\'  ,/')
+print(' \. ". L_r\'')
+print('   `~\\/')
+print('      |')
+print('      |')
